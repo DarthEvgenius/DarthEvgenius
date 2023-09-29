@@ -10,7 +10,7 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 <h3 align="left">Connect with me &#128071;</h3>
 <p align="left">
   <a href="mailto:eugenezinin@gmail.com?">
-    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white](https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png)"/>
   </a>
   <a href="https://t.me/eugene_zinin" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" height="32">
