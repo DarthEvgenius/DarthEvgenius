@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋, I'm I'm Eugene!</h1>
+<h1 align="center">Hello there👋, I'm Eugene!</h1>
 <h3 align="center">A self-learning web-developer from Russia</h3>
 
 <h3 align="left">Languages and Tools:</h3>
